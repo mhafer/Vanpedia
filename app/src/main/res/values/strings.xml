@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VANPEDIA</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="stay">Stay</string>
+
+
+    <!-- Sign-in status messages -->
+    <string name="sign_in">Google Sign-In</string>
+    <string name="signed_in_fmt">Signed in as: %s</string>
+    <string name="signed_in">Signed in</string>
+    <string name="signing_in">Signing in…</string>
+    <string name="signed_out">Signed out</string>
+    <string name="loading">Loading…</string>
+    <string name="desc_google_icon">Google Logo</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_splash">VANPEDIA</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_about_us">About This App</string>
+    <string name="title_activity_reference">References</string>
+    <string name="title_activity_list">Search Results</string>
+    <string name="title_activity_single_place">SinglePlaceActivity</string>
+    <string name="title_activity_destination">DestinationActivity</string>
+    <string name="title_activity_top_destination">Top 5 Destinations</string>
+    <string name="title_activity_favourite">Liked Places</string>
+
+
+
+</resources>
